@@ -1,0 +1,6 @@
+{
+  "name": "Bulk Website Classifier",
+  "description": "Scrape, enrich, and classify company websites in bulk using CSV uploads and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
